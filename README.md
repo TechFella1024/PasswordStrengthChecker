@@ -54,20 +54,23 @@ Below is the list of screenshots included in this project:
 ## Example Outputs
 Below are examples of outputs based on different password strengths:
 
-1. **Weak Password**:  
+1. **Script Running in Action**:  
+   ![Script Running in Action Example](https://github.com/TechFella1024/PasswordStrengthChecker/blob/main/script_terminal_example.png)
+
+2. **Weak Password**:  
    - Password: `password123`  
    - Strength: Weak  
-   ![Weak Password Example](screenshots/weak_password.png)
+   ![Weak Password Example](https://github.com/TechFella1024/PasswordStrengthChecker/blob/main/weak_password.png)
 
-2. **Medium Password**:  
+3. **Medium Password**:  
    - Password: `Password123`  
    - Strength: Medium  
-   ![Medium Password Example](screenshots/medium_password.png)
+   ![Medium Password Example](https://github.com/TechFella1024/PasswordStrengthChecker/blob/main/medium_password.png)
 
-3. **Strong Password**:  
+4. **Strong Password**:  
    - Password: `Str0ngP@ssw0rd!`  
    - Strength: Strong  
-   ![Strong Password Example](screenshots/strong_password.png)
+   ![Strong Password Example](https://github.com/TechFella1024/PasswordStrengthChecker/blob/main/strong_password.png)
 
 ---
 
